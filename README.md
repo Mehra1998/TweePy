@@ -5,7 +5,7 @@ TweePy is a python tool designed to extract the top best Tweets from Twitter. It
 Tweepy increase the possibility of finding the best Tweets and its sentiment using the API. The Credit Goes to Aylien for sentiment analysis.
 
 # Screenshot
-
+![alt text](https://raw.githubusercontent.com/Mehra1998/TweePy/master/Screenshot/Screenshot.png)
 # Installation
 
 ```sh
