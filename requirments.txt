@@ -1,0 +1,11 @@
+tweepy
+pandas
+shutil
+aylienapiclient
+csv
+io
+colorama
+subprocess
+codecs
+json
+win_unicode_console
